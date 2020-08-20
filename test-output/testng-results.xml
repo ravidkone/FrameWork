@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="733" started-at="2020-08-20T05:51:43Z" finished-at="2020-08-20T05:51:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="733" started-at="2020-08-20T05:51:43Z" finished-at="2020-08-20T05:51:44Z">
+      <class name="com.ravi.loginTest.AppLaunch">
+        <test-method status="PASS" signature="TriggerDependencies()[pri:0, instance:com.ravi.loginTest.AppLaunch@74650e52]" name="TriggerDependencies" is-config="true" duration-ms="25934" started-at="2020-08-20T05:51:17Z" finished-at="2020-08-20T05:51:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TriggerDependencies -->
+        <test-method status="PASS" signature="lauchMobileApp()[pri:0, instance:com.ravi.loginTest.AppLaunch@74650e52]" name="lauchMobileApp" duration-ms="689" started-at="2020-08-20T05:51:43Z" finished-at="2020-08-20T05:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchMobileApp -->
+        <test-method status="PASS" signature="shuttingDownAllDependancy()[pri:0, instance:com.ravi.loginTest.AppLaunch@74650e52]" name="shuttingDownAllDependancy" is-config="true" duration-ms="0" started-at="2020-08-20T05:51:44Z" finished-at="2020-08-20T05:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shuttingDownAllDependancy -->
+      </class> <!-- com.ravi.loginTest.AppLaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

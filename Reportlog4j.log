@@ -1,0 +1,76 @@
+Launchingchromebrowser
+This is info message
+This is warn message
+This is fatal message
+This is error message
+Browser Closed
+Log4j Property file Path :/Users/ravi.kone/Documents/Test-WorkSpace/FrameWorkQA/src/main/java/com/ravi/properties/TestData.properties
+Launchingchromebrowser
+This is info message
+This is warn message
+This is fatal message
+This is error message
+Browser Closed
+2020-06-18 00:35:50 INFO  CommonUtilities 30 - Log4j Property file Path :/Users/ravi.kone/Documents/Test-WorkSpace/FrameWorkQA/src/main/java/com/ravi/properties/TestData.properties
+2020-06-18 00:35:50 INFO  BrowserUtilities 18 - Launchingchromebrowser
+2020-06-18 00:35:55 INFO  com.ravi.loginTest.LoginTest 25 - This is info message
+2020-06-18 00:35:55 WARN  com.ravi.loginTest.LoginTest 26 - This is warn message
+2020-06-18 00:35:55 FATAL com.ravi.loginTest.LoginTest 27 - This is fatal message
+2020-06-18 00:35:55 ERROR com.ravi.loginTest.LoginTest 28 - This is error message
+2020-06-18 00:35:56 INFO  LoginTest 35 - Browser Closed
+2020-06-18 00:37:34 INFO  CommonUtilities 30 - Log4j Property file Path :/Users/ravi.kone/Documents/Test-WorkSpace/FrameWorkQA/src/main/java/com/ravi/properties/TestData.properties
+2020-06-18 00:37:34 INFO  BrowserUtilities 18 - Launching chrome browser
+2020-06-18 00:37:39 INFO  com.ravi.loginTest.LoginTest 25 - This is info message
+2020-06-18 00:37:39 WARN  com.ravi.loginTest.LoginTest 26 - This is warn message
+2020-06-18 00:37:39 FATAL com.ravi.loginTest.LoginTest 27 - This is fatal message
+2020-06-18 00:37:39 ERROR com.ravi.loginTest.LoginTest 28 - This is error message
+2020-06-18 00:37:39 INFO  LoginTest 34 - Browser Closed
+2020-06-18 00:42:24 INFO  CommonUtilities 30 - Log4j Property file Path :/Users/ravi.kone/Documents/Test-WorkSpace/FrameWorkQA/src/main/java/com/ravi/properties/TestData.properties
+2020-06-18 00:42:24 INFO  com.ravi.utilities.BrowserUtilities 18 - Launching chrome browser
+2020-06-18 00:42:30 INFO  com.ravi.loginTest.LoginTest 25 - This is info message
+2020-06-18 00:42:30 WARN  com.ravi.loginTest.LoginTest 26 - This is warn message
+2020-06-18 00:42:30 FATAL com.ravi.loginTest.LoginTest 27 - This is fatal message
+2020-06-18 00:42:30 ERROR com.ravi.loginTest.LoginTest 28 - This is error message
+2020-06-18 00:42:31 INFO  LoginTest 34 - Browser Closed
+2020-06-18 00:51:12 INFO  CommonUtilities 30 - Log4j Property file Path :/Users/ravi.kone/Documents/Test-WorkSpace/FrameWorkQA/src/main/java/com/ravi/properties/TestData.properties
+2020-06-18 00:51:12 INFO  com.ravi.utilities.BrowserUtilities 18 - Launching Chrome browser
+2020-06-18 00:51:18 INFO  com.ravi.loginTest.LoginTest 25 - This is info message
+2020-06-18 00:51:18 WARN  com.ravi.loginTest.LoginTest 26 - This is warn message
+2020-06-18 00:51:18 FATAL com.ravi.loginTest.LoginTest 27 - This is fatal message
+2020-06-18 00:51:18 ERROR com.ravi.loginTest.LoginTest 28 - This is error message
+2020-06-18 00:51:19 INFO  LoginTest 33 - Browser Closed
+2020-06-18 00:56:25 INFO  CommonUtilities 30 - Log4j Property file Path :/Users/ravi.kone/Documents/Test-WorkSpace/FrameWorkQA/src/main/java/com/ravi/properties/TestData.properties
+2020-06-18 00:56:25 INFO  com.ravi.utilities.BrowserUtilities 18 - Launching Chrome browser
+2020-06-18 00:56:29 INFO  com.ravi.loginTest.LoginTest 25 - This is info message
+2020-06-18 00:56:29 WARN  com.ravi.loginTest.LoginTest 26 - This is warn message
+2020-06-18 00:56:29 FATAL com.ravi.loginTest.LoginTest 27 - This is fatal message
+2020-06-18 00:56:29 ERROR com.ravi.loginTest.LoginTest 28 - This is error message
+2020-06-18 00:56:30 INFO  LoginTest 33 - Browser Closed
+2020-06-18 14:48:42 INFO  CommonUtilities 30 - Log4j Property file Path :/Users/ravi.kone/Documents/Test-WorkSpace/FrameWorkQA/src/main/java/com/ravi/properties/TestData.properties
+2020-06-18 14:48:42 INFO  com.ravi.utilities.BrowserUtilities 18 - Launching Chrome browser
+2020-06-18 14:48:50 INFO  com.ravi.loginTest.LoginTest 25 - This is info message
+2020-06-18 14:48:50 WARN  com.ravi.loginTest.LoginTest 26 - This is warn message
+2020-06-18 14:48:50 FATAL com.ravi.loginTest.LoginTest 27 - This is fatal message
+2020-06-18 14:48:50 ERROR com.ravi.loginTest.LoginTest 28 - This is error message
+2020-06-18 14:48:50 INFO  LoginTest 33 - Browser Closed
+2020-06-18 14:53:07 INFO  CommonUtilities 30 - Log4j Property file Path :/Users/ravi.kone/Documents/Test-WorkSpace/FrameWorkQA/src/main/java/com/ravi/properties/TestData.properties
+2020-06-18 14:53:07 INFO  com.ravi.utilities.BrowserUtilities 18 - Launching Chrome browser
+2020-06-18 14:53:12 INFO  com.ravi.loginTest.LoginTest 26 - This is info message
+2020-06-18 14:53:12 WARN  com.ravi.loginTest.LoginTest 27 - This is warn message
+2020-06-18 14:53:12 FATAL com.ravi.loginTest.LoginTest 28 - This is fatal message
+2020-06-18 14:53:12 ERROR com.ravi.loginTest.LoginTest 29 - This is error message
+2020-06-18 14:53:12 INFO  LoginTest 33 - Browser Closed
+2020-06-18 19:36:17 INFO  CommonUtilities 30 - Log4j Property file Path :/Users/ravi.kone/Documents/Test-WorkSpace/FrameWorkQA/src/main/java/com/ravi/properties/TestData.properties
+2020-06-18 19:36:17 INFO  com.ravi.utilities.BrowserUtilities 18 - Launching Chrome browser
+2020-06-18 19:36:22 INFO  com.ravi.loginTest.LoginTest 26 - This is info message
+2020-06-18 19:36:22 WARN  com.ravi.loginTest.LoginTest 27 - This is warn message
+2020-06-18 19:36:22 FATAL com.ravi.loginTest.LoginTest 28 - This is fatal message
+2020-06-18 19:36:22 ERROR com.ravi.loginTest.LoginTest 29 - This is error message
+2020-06-18 19:36:22 INFO  LoginTest 36 - Browser Closed
+2020-06-18 19:38:27 INFO  CommonUtilities 30 - Log4j Property file Path :/Users/ravi.kone/Documents/Test-WorkSpace/FrameWorkQA/src/main/java/com/ravi/properties/TestData.properties
+2020-06-18 19:38:27 INFO  com.ravi.utilities.BrowserUtilities 18 - Launching Chrome browser
+2020-06-18 19:38:31 INFO  com.ravi.loginTest.LoginTest 26 - This is info message
+2020-06-18 19:38:31 WARN  com.ravi.loginTest.LoginTest 27 - This is warn message
+2020-06-18 19:38:31 FATAL com.ravi.loginTest.LoginTest 28 - This is fatal message
+2020-06-18 19:38:31 ERROR com.ravi.loginTest.LoginTest 29 - This is error message
+2020-06-18 19:38:32 INFO  LoginTest 36 - Browser Closed
