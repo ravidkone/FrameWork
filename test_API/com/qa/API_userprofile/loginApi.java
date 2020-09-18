@@ -41,6 +41,7 @@ public class loginApi extends TestBase{
 //	System.out.println(res_Login.asString());
 	log.info(iStatusCode=res_Login.getStatusCode());
 	log.info(res_Login.asString());
+	res_Login.prettyPrint();
 	}
 
 }
